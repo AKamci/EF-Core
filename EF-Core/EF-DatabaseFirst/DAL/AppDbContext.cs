@@ -12,13 +12,16 @@ namespace EF_DatabaseFirst.DAL
         public DbSet<Product> Products { get; set; }
 
 
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        public AppDbContext()
         {
-            optionsBuilder.UseSqlServer("Server = DESKTOP-ABDULKA; Database =EF- CoreDB-First; Trusted_Connection = True; Encrypt = true; TrustServerCertificate = True");
-
-
-
+              
         }
+
+        public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
+        {
+          
+        }
+
 
     }
 }

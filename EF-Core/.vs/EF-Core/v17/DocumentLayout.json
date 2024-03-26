@@ -7,12 +7,20 @@
       "RelativeMoniker": "D:0:0:{10A38A37-65DF-4AE3-9541-1417547AB027}|EF-DatabaseFirst\\EF-DatabaseFirst.csproj|solutionrelative:ef-databasefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10A38A37-65DF-4AE3-9541-1417547AB027}|EF-DatabaseFirst\\EF-DatabaseFirst.csproj|c:\\users\\abdul\\onedrive\\desktop\\github dosyalar\u0131\\ef-core\\ef-core\\ef-databasefirst\\dal\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10A38A37-65DF-4AE3-9541-1417547AB027}|EF-DatabaseFirst\\EF-DatabaseFirst.csproj|solutionrelative:ef-databasefirst\\dal\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{10A38A37-65DF-4AE3-9541-1417547AB027}|EF-DatabaseFirst\\EF-DatabaseFirst.csproj|c:\\users\\abdul\\onedrive\\desktop\\github dosyalar\u0131\\ef-core\\ef-core\\ef-databasefirst\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10A38A37-65DF-4AE3-9541-1417547AB027}|EF-DatabaseFirst\\EF-DatabaseFirst.csproj|solutionrelative:ef-databasefirst\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A38A37-65DF-4AE3-9541-1417547AB027}|EF-DatabaseFirst\\EF-DatabaseFirst.csproj|c:\\users\\abdul\\onedrive\\desktop\\github dosyalar\u0131\\ef-core\\ef-core\\ef-databasefirst\\dal\\dbcontextinitilalizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A38A37-65DF-4AE3-9541-1417547AB027}|EF-DatabaseFirst\\EF-DatabaseFirst.csproj|solutionrelative:ef-databasefirst\\dal\\dbcontextinitilalizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A38A37-65DF-4AE3-9541-1417547AB027}|EF-DatabaseFirst\\EF-DatabaseFirst.csproj|c:\\users\\abdul\\onedrive\\desktop\\github dosyalar\u0131\\ef-core\\ef-core\\ef-databasefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{10A38A37-65DF-4AE3-9541-1417547AB027}|EF-DatabaseFirst\\EF-DatabaseFirst.csproj|solutionrelative:ef-databasefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A38A37-65DF-4AE3-9541-1417547AB027}|EF-DatabaseFirst\\EF-DatabaseFirst.csproj|c:\\users\\abdul\\onedrive\\desktop\\github dosyalar\u0131\\ef-core\\ef-core\\ef-databasefirst\\dal\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A38A37-65DF-4AE3-9541-1417547AB027}|EF-DatabaseFirst\\EF-DatabaseFirst.csproj|solutionrelative:ef-databasefirst\\dal\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +38,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "DbContextInitilalizer.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Desktop\\Github Dosyalar\u0131\\EF-Core\\EF-Core\\EF-DatabaseFirst\\DAL\\DbContextInitilalizer.cs",
+              "RelativeDocumentMoniker": "EF-DatabaseFirst\\DAL\\DbContextInitilalizer.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Desktop\\Github Dosyalar\u0131\\EF-Core\\EF-Core\\EF-DatabaseFirst\\DAL\\DbContextInitilalizer.cs",
+              "RelativeToolTip": "EF-DatabaseFirst\\DAL\\DbContextInitilalizer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T13:16:15.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Desktop\\Github Dosyalar\u0131\\EF-Core\\EF-Core\\EF-DatabaseFirst\\appsettings.json",
+              "RelativeDocumentMoniker": "EF-DatabaseFirst\\appsettings.json",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Desktop\\Github Dosyalar\u0131\\EF-Core\\EF-Core\\EF-DatabaseFirst\\appsettings.json",
+              "RelativeToolTip": "EF-DatabaseFirst\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAACOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-26T13:08:37.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Desktop\\Github Dosyalar\u0131\\EF-Core\\EF-Core\\EF-DatabaseFirst\\DAL\\Product.cs",
               "RelativeDocumentMoniker": "EF-DatabaseFirst\\DAL\\Product.cs",
@@ -38,19 +72,21 @@
               "RelativeToolTip": "EF-DatabaseFirst\\DAL\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T09:20:50.991Z"
+              "WhenOpened": "2024-03-26T09:20:50.991Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Desktop\\Github Dosyalar\u0131\\EF-Core\\EF-Core\\EF-DatabaseFirst\\DAL\\AppDbContext.cs",
               "RelativeDocumentMoniker": "EF-DatabaseFirst\\DAL\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\abdul\\OneDrive\\Desktop\\Github Dosyalar\u0131\\EF-Core\\EF-Core\\EF-DatabaseFirst\\DAL\\AppDbContext.cs",
               "RelativeToolTip": "EF-DatabaseFirst\\DAL\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T09:17:58.727Z"
+              "WhenOpened": "2024-03-26T09:17:58.727Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -60,7 +96,7 @@
               "RelativeDocumentMoniker": "EF-DatabaseFirst\\Program.cs",
               "ToolTip": "C:\\Users\\abdul\\OneDrive\\Desktop\\Github Dosyalar\u0131\\EF-Core\\EF-Core\\EF-DatabaseFirst\\Program.cs",
               "RelativeToolTip": "EF-DatabaseFirst\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-26T08:48:15.113Z",
               "EditorCaption": ""
