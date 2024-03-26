@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\abdul\\OneDrive\\Desktop\\Github Dosyalar\u0131\\EF-Core\\EF-Core\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10A38A37-65DF-4AE3-9541-1417547AB027}|EF-DatabaseFirst\\EF-DatabaseFirst.csproj|c:\\users\\abdul\\onedrive\\desktop\\github dosyalar\u0131\\ef-core\\ef-core\\ef-databasefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A38A37-65DF-4AE3-9541-1417547AB027}|EF-DatabaseFirst\\EF-DatabaseFirst.csproj|solutionrelative:ef-databasefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A38A37-65DF-4AE3-9541-1417547AB027}|EF-DatabaseFirst\\EF-DatabaseFirst.csproj|c:\\users\\abdul\\onedrive\\desktop\\github dosyalar\u0131\\ef-core\\ef-core\\ef-databasefirst\\dal\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A38A37-65DF-4AE3-9541-1417547AB027}|EF-DatabaseFirst\\EF-DatabaseFirst.csproj|solutionrelative:ef-databasefirst\\dal\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A38A37-65DF-4AE3-9541-1417547AB027}|EF-DatabaseFirst\\EF-DatabaseFirst.csproj|c:\\users\\abdul\\onedrive\\desktop\\github dosyalar\u0131\\ef-core\\ef-core\\ef-databasefirst\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A38A37-65DF-4AE3-9541-1417547AB027}|EF-DatabaseFirst\\EF-DatabaseFirst.csproj|solutionrelative:ef-databasefirst\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +22,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Desktop\\Github Dosyalar\u0131\\EF-Core\\EF-Core\\EF-DatabaseFirst\\DAL\\Product.cs",
+              "RelativeDocumentMoniker": "EF-DatabaseFirst\\DAL\\Product.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Desktop\\Github Dosyalar\u0131\\EF-Core\\EF-Core\\EF-DatabaseFirst\\DAL\\Product.cs",
+              "RelativeToolTip": "EF-DatabaseFirst\\DAL\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T09:20:50.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Desktop\\Github Dosyalar\u0131\\EF-Core\\EF-Core\\EF-DatabaseFirst\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EF-DatabaseFirst\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Desktop\\Github Dosyalar\u0131\\EF-Core\\EF-Core\\EF-DatabaseFirst\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "EF-DatabaseFirst\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T09:17:58.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Desktop\\Github Dosyalar\u0131\\EF-Core\\EF-Core\\EF-DatabaseFirst\\Program.cs",
+              "RelativeDocumentMoniker": "EF-DatabaseFirst\\Program.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Desktop\\Github Dosyalar\u0131\\EF-Core\\EF-Core\\EF-DatabaseFirst\\Program.cs",
+              "RelativeToolTip": "EF-DatabaseFirst\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T08:48:15.113Z",
+              "EditorCaption": ""
             }
           ]
         }
